@@ -1,0 +1,13 @@
+{
+  "name": "Voltran-Starter-Kit",
+  "version": "1.0.0",
+  "author": "Hepsiburada Technology Team",
+  "license": "MIT",
+  "dependencies": {
+    "voltranjs": "^1.0.0"
+  },
+  "scripts": {
+    "start": "yarn voltran --config voltran-app.config.js --dev",
+    "serve": "yarn voltran --config voltran-app.config.js"
+  }
+}

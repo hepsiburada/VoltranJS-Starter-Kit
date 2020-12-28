@@ -1,0 +1,3 @@
+const port = 3578;
+
+module.exports={"port":3578,"api":{"clientUrl":"http://localhost:3578","serverUrl":"http://localhost:3578"},"baseUrl":"http://localhost:3578","mediaUrl":"","logLevel":"info","isCssClassNameObfuscationEnabled":false,"sfBaseUrl":"http://localhost:3578","services":{"voltranapi":{"clientUrl":"http://voltran-api.qa.hepsiburada.com","serverUrl":"http://voltran-api.qa.hepsiburada.com"}},"timeouts":{"clientApiManager":20000,"serverApiManager":20000}};
