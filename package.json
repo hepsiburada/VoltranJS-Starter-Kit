@@ -4,7 +4,7 @@
   "author": "Hepsiburada Technology Team",
   "license": "MIT",
   "dependencies": {
-    "voltranjs": "^1.0.1"
+    "voltranjs": "^1.0.2"
   },
   "scripts": {
     "start": "yarn voltran --config voltran-app.config.js --dev",

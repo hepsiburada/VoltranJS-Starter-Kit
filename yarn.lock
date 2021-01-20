@@ -8653,10 +8653,10 @@ vm-browserify@^1.0.1:
   resolved "https://registry.yarnpkg.com/vm-browserify/-/vm-browserify-1.1.2.tgz#78641c488b8e6ca91a75f511e7a3b32a86e5dda0"
   integrity sha512-2ham8XPWTONajOR0ohOKOHXkm3+gaBmGut3SRuu75xLd/RRaY6vqgh8NBYYk7+RW3u5AtzPQZG8F10LHkl0lAQ==
 
-voltranjs@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/voltranjs/-/voltranjs-1.0.1.tgz#a3a4ad5c1134fba7ded51eb7f0b2dca136f6ae50"
-  integrity sha512-WuUJOmJs1fBSDWzqp4m7/Ub1wERDUK6Ci2Acq0Kn7mOXQUzHT8bG/b5c0FhaAJrIPBeVVu8KcdjmVuvdQIcuTQ==
+voltranjs@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/voltranjs/-/voltranjs-1.0.2.tgz#ffe815a60d0e86a33b54022a6e601242022807ae"
+  integrity sha512-9hRFyijtrASl43aBZv+ri49VSbfVsV7iihXYTtDX0FiUdpghMe0D8j5x7N8ICykgymn3kPhilgCc55ioT9J55Q==
   dependencies:
     "@babel/core" "7.10.4"
     "@babel/plugin-proposal-class-properties" "7.10.4"
