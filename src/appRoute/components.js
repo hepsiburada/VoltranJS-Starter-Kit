@@ -9,6 +9,7 @@ const COMPONENTS = {
 		name: 'HELLO_WORLD',
     status: 'dev',
     isMobileFragment: false,
+    isPreviewQuery: false
 	},
 };
 
