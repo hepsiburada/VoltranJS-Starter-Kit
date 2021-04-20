@@ -1,26 +1,47 @@
+
 # VoltranJS Starter Kit
 
-#### Yarn
+
+## Setup & Install
+
+
+#### For Yarn
+
+
 ```sh
 $ yarn install
 ```
 
-OR
+####  For Npm
 
-
-#### Npm
 ```sh
 $ npm install
 ```
 
-Run the scripts for development...
+## Run For Development 
+
+#### For Yarn
 
 ```sh
 $ yarn start
 ```
 
-For Production...
+####  For Npm
 
 ```sh
-$ yarn serve 
+$ npm run start
+```
+
+## Run For Production
+
+#### For Yarn
+
+```sh
+$ yarn serve
+```
+
+####  For Npm
+
+```sh
+$ npm run serve
 ```
