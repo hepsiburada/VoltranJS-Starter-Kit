@@ -35,8 +35,8 @@ module.exports = {
 	staticProps: [],
 	svgFolder: path.resolve(__dirname, './src/assets/images'),
 	webpackConfiguration: {
-		client: {},
-		common: {},
-		server: {},
+		client: '',
+		common: '',
+		server: '',
 	},
 };
