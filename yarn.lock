@@ -8872,10 +8872,10 @@ vm-browserify@^1.0.1:
   resolved "https://registry.yarnpkg.com/vm-browserify/-/vm-browserify-1.1.2.tgz#78641c488b8e6ca91a75f511e7a3b32a86e5dda0"
   integrity sha512-2ham8XPWTONajOR0ohOKOHXkm3+gaBmGut3SRuu75xLd/RRaY6vqgh8NBYYk7+RW3u5AtzPQZG8F10LHkl0lAQ==
 
-voltranjs@^1.0.16:
-  version "1.0.18"
-  resolved "https://registry.yarnpkg.com/voltranjs/-/voltranjs-1.0.18.tgz#845f77d51bf64c4a84c7c8e464f4d5ed9870d9ca"
-  integrity sha512-Bvsw1N3Se8Tgn6o4bWIEC3y95c7X1XvzL17d6mx742WacWvt6TF4NzciybvrvjldkAwvbdf0qBLIOLf+wNl4WA==
+voltranjs@^1.0.22:
+  version "1.0.22"
+  resolved "https://registry.yarnpkg.com/voltranjs/-/voltranjs-1.0.22.tgz#57838cc7c036d639d70840447c67f1449561b3de"
+  integrity sha512-vcBYVnZv6Kek9J3a57YKCwAvXk3yAr+Y6cbU7adZNxji6c51COg4V925ueIap6WtbZLfOmEeC3HmKHNEkRAiDA==
   dependencies:
     "@babel/core" "7.14.3"
     "@babel/eslint-parser" "^7.12.1"
