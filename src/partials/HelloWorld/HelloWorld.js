@@ -15,7 +15,7 @@ function HelloWorld({ initialState }) {
         <h1>Welcome to the VoltranJS</h1>
 
         <span>Hello World! It is a Micro Frontend Library</span>
-        <img className={style.voltran} src={`${appConfig.mediaUrl}/images/voltran.png`}/>
+        <img className={style.voltran} src={`${appConfig.mediaUrl}/images/voltran.png`} />
       </div>
     </div>
   );

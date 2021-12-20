@@ -4,10 +4,11 @@
   "author": "Hepsiburada Technology Team",
   "license": "MIT",
   "dependencies": {
-    "voltranjs": "^1.0.16"
+    "voltranjs": "^1.0.22"
   },
   "scripts": {
     "start": "yarn voltran --config voltran-app.config.js --dev",
-    "serve": "yarn voltran --config voltran-app.config.js"
+    "serve": "yarn voltran --config voltran-app.config.js",
+    "create-fragment": "node ./bin/createFragment/createFragment.js"
   }
 }
